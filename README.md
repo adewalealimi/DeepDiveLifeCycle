@@ -1,3 +1,2 @@
-# Skeleton React starter Project
+# React Component Lifecycle Deep Dive
 
-> Provided for the students of the [Bottega Code School](https://bottega.tech/)
